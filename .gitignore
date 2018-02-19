@@ -4,3 +4,5 @@ dist
 .project
 .pydevproject
 .idea
+.pypirc
+/*.egg-info
